@@ -26,9 +26,13 @@ of kotlin in terms of the weather app.
 
 **5. In case of an error when building project, update your gradle version, Build Tools download**
 
+## Documentation
+
+[Diagram of the Weather App](https://app.diagrams.net/#G15SoKK6nvVxTSvH2GFCo_UkgFtiUsv3mh)
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like 
+to change.
 
 ## Feature to be added
 - [ ] Add different branches for every different kotlin concept
