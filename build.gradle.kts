@@ -14,7 +14,10 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test"))
+   // implementation 'org.json:json:20210307'
+
 }
+
 
 tasks.test {
     useJUnitPlatform()
@@ -27,3 +30,4 @@ tasks.withType<KotlinCompile> {
 application {
     mainClass.set("MainKt")
 }
+
